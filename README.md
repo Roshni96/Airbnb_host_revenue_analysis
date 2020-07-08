@@ -38,12 +38,6 @@ This way, we can measure the relationship of title language on our net revenue.
 Thus, allowing hosts to phrase their listing in the best way possible, in hopes to maximize profits.
 Top 6 most used bigrams:
 
-word1	word2	n	both
-<chr>	<chr>	<int>	<chr>
-1	1	bedroom	1797	1 bedroom
-2	central	park	1355	central park
-3	east	village	1321	east village
-4	2	bedroom	1156	2 bedroom
-5	private	bedroom	963	private bedroom
-6	bedroom	apartment	890	bedroom apartment
+
+
 
